@@ -1,0 +1,56 @@
+Data Dictionary - Tidydata (originated from "Human Activity Recognition Using Smartphones" dataset.
+
+subject
+numeric representing human subject
+
+activity
+measurements taken while performing one of the following:
+walking 
+walking up
+walking down
+sitting 
+standing 
+laying
+
+The following are 561 types of measurements taken during activity (only mean and std related features included in tidydata)
+
+"timeBodyAccel-mean-X" 
+"timeBodyAccel-mean-Y" 
+"timeBodyAccel-mean-Z" 
+"timeBodyAccel-std-X" 
+"timeBodyAccel-std-Y" 
+"timeBodyAccel-std-Z" 
+"timeGravityAccel-mean-X" 
+"timeGravityAccel-mean-Y" 
+"timeGravityAccel-mean-Z" 
+"timeGravityAccel-std-X" 
+"timeGravityAccel-std-Y" 
+"timeGravityAccel-std-Z" 
+"timeBodyAccelJerk-mean-X" 
+"timeBodyAccelJerk-mean-Y" 
+"timeBodyAccelJerk-mean-Z" 
+"timeBodyAccelJerk-std-X" 
+"timeBodyAccelJerk-std-Y" 
+"timeBodyAccelJerk-std-Z" 
+"timeBodyGyro-mean-X" 
+"timeBodyGyro-mean-Y" 
+"timeBodyGyro-mean-Z" 
+"timeBodyGyro-std-X" 
+"timeBodyGyro-std-Y" 
+"timeBodyGyro-std-Z" 
+"timeBodyGyroJerk-mean-X" 
+"timeBodyGyroJerk-mean-Y" 
+"timeBodyGyroJerk-mean-Z" 
+"timeBodyGyroJerk-std-X" 
+"timeBodyGyroJerk-std-Y" 
+"timeBodyGyroJerk-std-Z" 
+"timeBodyAccelMag-mean" 
+"timeBodyAccelMag-std" 
+"timeGravityAccelMag-mean" 
+"timeGravityAccelMag-std" 
+"timeBodyAccelJerkMag-mean" 
+"timeBodyAccelJerkMag-std" 
+"timeBodyGyroMag-mean" 
+"timeBodyGyroMag-std" 
+"timeBodyGyroJerkMag-mean" 
+"timeBodyGyroJerkMag-std" "freqBodyAccel-mean-X" "freqBodyAccel-mean-Y" "freqBodyAccel-mean-Z" "freqBodyAccel-std-X" "freqBodyAccel-std-Y" "freqBodyAccel-std-Z" "freqBodyAccelJerk-mean-X" "freqBodyAccelJerk-mean-Y" "freqBodyAccelJerk-mean-Z" "freqBodyAccelJerk-std-X" "freqBodyAccelJerk-std-Y" "freqBodyAccelJerk-std-Z" "freqBodyGyro-mean-X" "freqBodyGyro-mean-Y" "freqBodyGyro-mean-Z" "freqBodyGyro-std-X" "freqBodyGyro-std-Y" "freqBodyGyro-std-Z" "freqBodyAccelMag-mean" "freqBodyAccelMag-std" "freqBodyBodyAccelJerkMag-mean" "freqBodyBodyAccelJerkMag-std" "freqBodyBodyGyroMag-mean" "freqBodyBodyGyroMag-std" "freqBodyBodyGyroJerkMag-mean" "freqBodyBodyGyroJerkMag-std"
