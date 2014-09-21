@@ -1,7 +1,8 @@
-Data Dictionary - Tidydata (originated from "Human Activity Recognition Using Smartphones" dataset.
+Data Dictionary - Tidydata 
+(originated from "Human Activity Recognition Using Smartphones" dataset.)
 
 subject
-numeric representing human subject
+numeric representing a uniqe human subject
 
 activity
 measurements taken while performing one of the following:
@@ -12,7 +13,8 @@ sitting
 standing 
 laying
 
-The following are 561 types of measurements taken during activity (only mean and std related features included in tidydata)
+The following are 561 types of measurements taken during activity 
+(only mean and std related features included in tidydata)
 
 "timeBodyAccel-mean-X" 
 "timeBodyAccel-mean-Y" 
@@ -53,4 +55,5 @@ The following are 561 types of measurements taken during activity (only mean and
 "timeBodyGyroMag-mean" 
 "timeBodyGyroMag-std" 
 "timeBodyGyroJerkMag-mean" 
-"timeBodyGyroJerkMag-std" "freqBodyAccel-mean-X" "freqBodyAccel-mean-Y" "freqBodyAccel-mean-Z" "freqBodyAccel-std-X" "freqBodyAccel-std-Y" "freqBodyAccel-std-Z" "freqBodyAccelJerk-mean-X" "freqBodyAccelJerk-mean-Y" "freqBodyAccelJerk-mean-Z" "freqBodyAccelJerk-std-X" "freqBodyAccelJerk-std-Y" "freqBodyAccelJerk-std-Z" "freqBodyGyro-mean-X" "freqBodyGyro-mean-Y" "freqBodyGyro-mean-Z" "freqBodyGyro-std-X" "freqBodyGyro-std-Y" "freqBodyGyro-std-Z" "freqBodyAccelMag-mean" "freqBodyAccelMag-std" "freqBodyBodyAccelJerkMag-mean" "freqBodyBodyAccelJerkMag-std" "freqBodyBodyGyroMag-mean" "freqBodyBodyGyroMag-std" "freqBodyBodyGyroJerkMag-mean" "freqBodyBodyGyroJerkMag-std"
+"timeBodyGyroJerkMag-std" 
+...
