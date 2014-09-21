@@ -13,7 +13,7 @@ sitting
 standing
 laying
 
-The following are 561 types of measurements taken during activity, averaged for each subject / activity
+The following are 68 types of measurements taken during activity, averaged for each subject / activity
 (only mean and std related features included in tidydata)
 
 Note that according to the UCI HAR documentation:
