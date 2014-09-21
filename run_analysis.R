@@ -54,6 +54,6 @@ tidydata_averaged<-summarise_each(tidydata_grouped, funs(mean))
 
 ### OUTPUT
 ###now, writing out to files
-write.table(tidydata, file="tidydata.txt", row.name=FALSE)
-#write.table(tidydata_averaged, file="tidydata_averaged.txt", row.name=FALSE)
+#write.table(tidydata, file="tidydata.txt", row.name=FALSE)
+write.table(tidydata_averaged, file="tidydata_averaged.txt", row.name=FALSE)
   
